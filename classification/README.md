@@ -1,4 +1,4 @@
-## **Heart Disease Prediction Using Machine Learning**
+# **Heart Disease Prediction Using Machine Learning**
 ## **Project Overview**
 This project focuses on building a classification model to predict heart disease based on various medical features such as age, cholesterol levels, blood pressure, and other diagnostic attributes. Multiple machine-learning models were developed and evaluated using a heart disease dataset to determine the most accurate and reliable model for predicting heart disease.
 
